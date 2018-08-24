@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_open_with" table="x_nhsns_eess_sd_eess" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_open_with</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>eESS Program team</label>
+            <language>en</language>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sequence>0</sequence>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 10:03:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcf0a4b2db0823004284fd161d961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 10:03:24</sys_updated_on>
+            <value>eess_program_team</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_open_with</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ATOS</label>
+            <language>en</language>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sequence>1</sequence>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 10:03:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcf0a4b2db0823004284fd161d961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 10:03:24</sys_updated_on>
+            <value>atos</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_open_with</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oracle</label>
+            <language>en</language>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sequence>2</sequence>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 10:03:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3cf0a4b2db0823004284fd161d961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 10:03:24</sys_updated_on>
+            <value>oracle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_open_with</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Awaiting Customer</label>
+            <language>en</language>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sequence>3</sequence>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 10:03:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78f0a4b2db0823004284fd161d961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 10:03:24</sys_updated_on>
+            <value>awaiting_customer</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_open_with</element>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 10:03:24</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>b8f0a4b2db0823004284fd161d961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_open_with</sys_name>
+            <sys_package display_value="EESS" source="x_nhsns_eess_sd">3f97d0badbc423004284fd161d9619fb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="EESS">3f97d0badbc423004284fd161d9619fb</sys_scope>
+            <sys_update_name>sys_choice_x_nhsns_eess_sd_eess_u_open_with</sys_update_name>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 10:03:24</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

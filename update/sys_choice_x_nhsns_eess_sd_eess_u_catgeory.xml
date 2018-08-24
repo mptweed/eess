@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_catgeory" table="x_nhsns_eess_sd_eess" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_catgeory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Core</label>
+            <language>en</language>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sequence>0</sequence>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 09:32:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0be998fadbc423004284fd161d961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 09:32:42</sys_updated_on>
+            <value>core</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_catgeory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ER</label>
+            <language>en</language>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sequence>1</sequence>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 09:32:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4be998fadbc423004284fd161d96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 09:32:42</sys_updated_on>
+            <value>er</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_catgeory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OLM</label>
+            <language>en</language>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sequence>2</sequence>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 09:32:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87e998fadbc423004284fd161d96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 09:32:42</sys_updated_on>
+            <value>olm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_catgeory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OBIEE</label>
+            <language>en</language>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sequence>3</sequence>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 09:32:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3e998fadbc423004284fd161d96199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 09:32:42</sys_updated_on>
+            <value>obiee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_catgeory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Payroll</label>
+            <language>en</language>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sequence>4</sequence>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 09:32:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>03e998fadbc423004284fd161d9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 09:32:42</sys_updated_on>
+            <value>payroll</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_catgeory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manager Self Service</label>
+            <language>en</language>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sequence>5</sequence>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 09:32:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4fe998fadbc423004284fd161d9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 09:32:42</sys_updated_on>
+            <value>manager_self_service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_catgeory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Employee Self Service</label>
+            <language>en</language>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sequence>6</sequence>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 09:32:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8be998fadbc423004284fd161d9619a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 09:32:42</sys_updated_on>
+            <value>employee_self_service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_catgeory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Interfaces</label>
+            <language>en</language>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sequence>7</sequence>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 09:32:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7e998fadbc423004284fd161d9619a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 09:32:42</sys_updated_on>
+            <value>interfaces</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_catgeory</element>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 09:32:42</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>07e998fadbc423004284fd161d96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_catgeory</sys_name>
+            <sys_package display_value="EESS" source="x_nhsns_eess_sd">3f97d0badbc423004284fd161d9619fb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="EESS">3f97d0badbc423004284fd161d9619fb</sys_scope>
+            <sys_update_name>sys_choice_x_nhsns_eess_sd_eess_u_catgeory</sys_update_name>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 09:32:42</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

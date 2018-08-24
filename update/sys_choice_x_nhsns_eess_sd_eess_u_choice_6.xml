@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_6" table="x_nhsns_eess_sd_eess" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>interfaces</dependent_value>
+            <element>u_choice_6</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Learnpro</label>
+            <language>en</language>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sequence>100</sequence>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 10:41:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49b964b6db0823004284fd161d9619d1</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 10:42:02</sys_updated_on>
+            <value>learnpro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>interfaces</dependent_value>
+            <element>u_choice_6</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Turas</label>
+            <language>en</language>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sequence>200</sequence>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 10:41:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04a968f6db0823004284fd161d9619e8</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 10:41:49</sys_updated_on>
+            <value>turas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>interfaces</dependent_value>
+            <element>u_choice_6</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GMC</label>
+            <language>en</language>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sequence>300</sequence>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 10:41:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>488928b6db0823004284fd161d96191f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 10:41:34</sys_updated_on>
+            <value>gmc</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_6</element>
+            <name>x_nhsns_eess_sd_eess</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>marktw01</sys_created_by>
+            <sys_created_on>2018-08-24 10:41:19</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>48a968f6db0823004284fd161d961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_6</sys_name>
+            <sys_package display_value="EESS" source="x_nhsns_eess_sd">3f97d0badbc423004284fd161d9619fb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="EESS">3f97d0badbc423004284fd161d9619fb</sys_scope>
+            <sys_update_name>sys_choice_x_nhsns_eess_sd_eess_u_choice_6</sys_update_name>
+            <sys_updated_by>marktw01</sys_updated_by>
+            <sys_updated_on>2018-08-24 10:41:19</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

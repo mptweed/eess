@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="eESS" max_length="40" name="x_nhsns_eess_sd_eess" type="collection">
+        <element label="Caller" mandatory="true" max_length="32" name="u_caller" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Affected Module" mandatory="true" max_length="40" name="u_catgeory" type="string">
+            <choice>
+                <element label="Core" sequence="0" value="core"/>
+                <element label="ER" sequence="1" value="er"/>
+                <element label="OLM" sequence="2" value="olm"/>
+                <element label="OBIEE" sequence="3" value="obiee"/>
+                <element label="Payroll" sequence="4" value="payroll"/>
+                <element label="Manager Self Service" sequence="5" value="manager_self_service"/>
+                <element label="Employee Self Service" sequence="6" value="employee_self_service"/>
+                <element label="Interfaces" sequence="7" value="interfaces"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Contact Number" max_length="40" name="u_contact_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Open with" max_length="40" name="u_open_with" type="string">
+            <choice>
+                <element label="eESS Program team" sequence="0" value="eess_program_team"/>
+                <element label="ATOS" sequence="1" value="atos"/>
+                <element label="Oracle" sequence="2" value="oracle"/>
+                <element label="Awaiting Customer" sequence="3" value="awaiting_customer"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_catgeory" dependent_on_field="u_catgeory" label="Affected Module Sub" max_length="40" name="u_sub_category" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="interfaces" label="Learnpro" sequence="100" value="learnpro"/>
+                <element dependent_value="interfaces" label="Turas" sequence="200" value="turas"/>
+                <element dependent_value="interfaces" label="GMC" sequence="300" value="gmc"/>
+            </choice>
+        </element>
+    </element>
+</database>

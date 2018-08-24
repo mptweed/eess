@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>eESS</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>eESS</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">e0584b53db1322006de0f3731d961981</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>marktw01</sys_created_by>
+        <sys_created_on>2018-08-24 09:24:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ae0898badbc423004284fd161d9619b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>eESS</sys_name>
+        <sys_package display_value="EESS" source="x_nhsns_eess_sd">3f97d0badbc423004284fd161d9619fb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="EESS">3f97d0badbc423004284fd161d9619fb</sys_scope>
+        <sys_update_name>sys_wizard_answer_ae0898badbc423004284fd161d9619b1</sys_update_name>
+        <sys_updated_by>marktw01</sys_updated_by>
+        <sys_updated_on>2018-08-24 09:24:29</sys_updated_on>
+        <table/>
+        <target_url>x_nhsns_eess_sd_eess.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
